@@ -1,0 +1,15 @@
+{
+  "name": "SCLD Libraries",
+  "slug": "scld-libraries",
+  "easId": "fbf79c0d-6b9c-449b-ad63-db7d689f8cfa",
+  "reverseDns": "org.aspendiscovery.scld",
+  "discoveryUrl": "https://catalog.scld.org/",
+  "greenhouseUrl": "https://catalog.scld.org/",
+  "libraryId": "2",
+  "themeId": "1",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-scld-libraries",
+  "sentryDsn": "https://5dff10bf3cd9213352b3f45dbe066c17@o994439.ingest.sentry.io/4506401488437248",
+  "ascAppId": "6474624114",
+  "logLevel": "0"
+}
